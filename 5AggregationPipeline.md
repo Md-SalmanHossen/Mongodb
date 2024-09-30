@@ -1,4 +1,4 @@
-Let's break down **`$match`**, **`$project`**, and **`$lookup`** step by step with examples, followed by a summary of common use cases for aggregation in backend development.
+Let's break down **`$match`**, **`$project`**, and **`$lookup`** step by step with examples. 
 
 ---
 
